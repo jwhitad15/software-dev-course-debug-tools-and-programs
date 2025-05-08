@@ -41,4 +41,3 @@ const cart = [
   
   document.getElementById("total").textContent = `Total: $${discountedTotal}`;
   document.getElementById("receipt").textContent = receipt;
-  
